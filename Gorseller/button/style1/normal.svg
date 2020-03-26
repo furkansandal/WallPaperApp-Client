@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="335px" height="52px" viewBox="0 0 335 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>button/style1/normal</title>
+    <desc>Created with Sketch.</desc>
+    <g id="iPhone-7" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-Login-focused" transform="translate(-20.000000, -434.000000)">
+            <g id="button/style1/normal" transform="translate(24.000000, 436.000000)">
+                <g>
+                    <path d="M0,2.00492334 C0,0.897634756 0.895039648,0 2.00340287,0 L324.996597,0 C326.103046,0 327,0.898855112 327,2.00492334 L327,41.9950767 C327,43.1023652 326.10496,44 324.996597,44 L2.00340287,44 C0.896954018,44 0,43.1011449 0,41.9950767 L0,2.00492334 Z" id="Rectangle" fill-opacity="0.64" fill="#43CEA2"></path>
+                    <text id="Log-in" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.0269230772" fill="#FFFFFF">
+                        <tspan x="141.784593" y="28">LOGIN</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

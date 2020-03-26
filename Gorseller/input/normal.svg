@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="335px" height="30px" viewBox="0 0 335 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>input/normal</title>
+    <desc>Created with Sketch.</desc>
+    <g id="iPhone-7" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.75">
+        <g id="01-Login-normal" transform="translate(-20.000000, -308.000000)" fill="#FFFFFF">
+            <g id="input/normal" transform="translate(24.000000, 284.000000)">
+                <g>
+                    <text id="input__field" font-family="Helvetica" font-size="14" font-weight="normal">
+                        <tspan x="0" y="36">E-Posta</tspan>
+                    </text>
+                    <rect id="input__underline" x="0" y="47" width="327" height="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
